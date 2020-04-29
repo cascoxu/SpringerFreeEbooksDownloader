@@ -1,0 +1,11 @@
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\fernan2\Desktop\Curso_NET_ANGULAR_2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache

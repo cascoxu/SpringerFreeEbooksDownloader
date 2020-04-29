@@ -1,0 +1,6 @@
+ExcelName::Free+English+textbooks.xlsx
+SheetName::EbookList
+SaveInFoldersByPackageName::yes
+SaveInFoldersByProductType::yes
+SaveBookDataInTxt::yes
+BaseDir::C:\Users\fernan2\Desktop\SpringerFreeEbooks
