@@ -110,7 +110,7 @@ namespace ConsoleApp1
                         {
                             String content = client.DownloadString(books[i].openDownloadPage);
 
-                            Regex regex = new Regex("2(.*)pdf");
+                            Regex regex = new Regex("pdf(.*)pdf");
                             Match match = regex.Match(content);
 
                             if (match.Success)
@@ -118,7 +118,7 @@ namespace ConsoleApp1
                                 string s = match.Value;
                                 s = s.Remove(s.IndexOf("\""));
 
-                                string downloadURL = "https://link.springer.com/content/pdf/10.1007%" + s;
+                                string downloadURL = "https://link.springer.com/content/" + s;
 
                                 using (WebClient client2 = new WebClient())
                                 {
